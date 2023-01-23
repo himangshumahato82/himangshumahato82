@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himangshumahato82" alt="himangshumahato82" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 Doing **Full Stack Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Himangshu](https://hashnode.com/@Himangshu)
 
