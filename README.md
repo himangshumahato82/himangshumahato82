@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Himangshu](https://hashnode.com/@Himangshu)
 
-- 💬 Ask me about **MERN**
+-  💬 Ask me about **React, Html, CSS, JavaScript**
 
 - 📫 How to reach me **himangshumahato82@gmail.com**
 
