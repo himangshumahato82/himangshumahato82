@@ -23,10 +23,10 @@ class Skills extends SoftwareDeveloper {
 ```
 <!-- https://github.com/himangshumahato82?tab=followers -->
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Furkan9623/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=himangshumahato82/&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> -->
 <br/>
 <p align="centre"> 
-<a href="https://github.com/Furkan9623/?tab=followers"><img src="https://img.shields.io/github/followers/shivraj32644?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/himangshumahato82/?tab=followers"><img src="https://img.shields.io/github/followers/shivraj32644?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
@@ -65,24 +65,24 @@ class Skills extends SoftwareDeveloper {
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/md-furkan-266a65195/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a title="furkanm9623@gmail.com" href="mailto:furkanm9623@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://www.linkedin.com/in/himangshu-mahato-b451b3182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDaCO87aJQ1WdIEVnFiqumw%3D%3D" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="himangshumahato82@gmail.com" href="mailto:himangshumahato82@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/8584009623" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
-  <a href="https://furkan-portfolio-8584.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://himangshumahato82.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 
 </p>
 <br />
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Furkan9623&show_icons=true&theme=gradient" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan9623&layout=compact" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=himangshumahato82&show_icons=true&theme=gradient" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangshumahato82&layout=compact" />
   
 </div>
 <br />
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivraj32644&theme=minimal" alt="activitygraph" />  -->
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Furkan9623" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Furkan9623" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furkan9623&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himangshumahato82" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=himangshumahato82" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himangshumahato82&theme=vue" alt="summarycard"/> </p>
 <hr />
 
 <p align="centre" margin="auto">Thanks a lot. :heart:<p>
