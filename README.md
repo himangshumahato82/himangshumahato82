@@ -67,7 +67,7 @@ class Skills extends SoftwareDeveloper {
 <p align="left">
   <a href="https://www.linkedin.com/in/himangshu-mahato-b451b3182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDaCO87aJQ1WdIEVnFiqumw%3D%3D" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="himangshumahato82@gmail.com" href="mailto:himangshumahato82@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  <a href="https://wa.me/8584009623" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
+  <a href="https://wa.me/6295444147" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
   <a href="https://himangshumahato82.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 
 </p>
