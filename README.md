@@ -66,7 +66,7 @@ class Skills extends SoftwareDeveloper {
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SaurabhSinghRbz}/count.svg" alt="SaurabhSinghRbz :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{himangshumahato82}/count.svg" alt="himangshumahato82 :: Visitor's Count" /></p>
 
 <hr>
 
